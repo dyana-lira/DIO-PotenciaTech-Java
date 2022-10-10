@@ -1,0 +1,1 @@
+O código em TiposVariaveis é uma calculadora simples para o cálculo da circunferência. foi um meio de exemplificar o que foi dito sobre constantes na aula em questão.
