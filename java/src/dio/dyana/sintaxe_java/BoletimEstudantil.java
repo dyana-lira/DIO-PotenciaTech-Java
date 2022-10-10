@@ -1,3 +1,5 @@
+package dio.dyana.sintaxe_java;
+
 import java.util.Scanner;
 
 public class BoletimEstudantil {
