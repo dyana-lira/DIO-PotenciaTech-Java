@@ -11,6 +11,8 @@ public class BoletimEstudantil {
         System.out.print("NOTA 2: _");
         float nota_dois = scan.nextFloat();
 
+        scan.close();
+
         float mediaFinal = calculaMedia(nota_um, nota_dois);
 
         System.out.print("MÉDIA: " + mediaFinal + " | ");
