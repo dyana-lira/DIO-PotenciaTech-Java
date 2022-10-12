@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Desafio",
+            "request": "launch",
+            "mainClass": "Desafio",
+            "projectName": "AboutMe_b0140280"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
@@ -15,7 +22,7 @@
             "name": "Launch AboutMe",
             "request": "launch",
             "mainClass": "AboutMe",
-            "projectName": "AboutMe_b0140280",
+            "projectName": "AboutMe_b0140280"
         }
     ]
 }
