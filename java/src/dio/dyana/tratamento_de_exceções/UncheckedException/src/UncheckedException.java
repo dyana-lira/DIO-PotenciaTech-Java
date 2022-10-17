@@ -29,3 +29,4 @@ public class UncheckedException {
     public static Double dividir(Double a, Double  b) { return a / b; }
 
 }
+
